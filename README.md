@@ -47,5 +47,3 @@ Demonstrar técnicas de criptografia para fins de estudo em segurança cibernét
 - Praticar **manipulação segura de arquivos** em Python
 - Discutir **implicações éticas** no desenvolvimento
 - Preparar para **blue team** (defesa cibernética)
-
-## 📁 Estrutura do Projeto
